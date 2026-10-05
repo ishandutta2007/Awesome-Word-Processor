@@ -51,9 +51,9 @@ Below is a curated comparison of leading SaaS word processors, sorted by company
 
 ## 🔓 Open-Source GitHub Projects
 
-Open-source document editors provide data sovereignty, privacy, and self-hosting options. Below are top repositories sorted by **GitHub Stars (descending)**.
+Open-source document editors provide data sovereignty, privacy, and self-hosting options. Below are top repositories sorted by **GitHub_Stars (descending)**.
 
-| Project & Repository 📦 | GitHub Stars 🌟 | License 📜 | Description & Highlights 🚀 |
+| Project & Repository 📦 | GitHub_Stars 🌟 | License 📜 | Description & Highlights 🚀 |
 | :--- | :--- | :--- | :--- |
 | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** | [![AppFlowy Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | AGPL-3.0 | Open-source alternative to Notion. Built with Flutter and Rust for high performance, document privacy, and local-first data ownership. |
 | **[Logseq](https://github.com/logseq/logseq)** | [![Logseq Stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers) | AGPL-3.0 | Local-first, privacy-focused open-source knowledge base and outliner word processor supporting Markdown and Org-mode. |
@@ -72,7 +72,7 @@ Open-source document editors provide data sovereignty, privacy, and self-hosting
 
 For developers seeking to embed customizable word processing engines into custom web applications:
 
-| Framework 🧰 | GitHub Stars 🌟 | License 📜 | Description 📝 |
+| Framework 🧰 | GitHub_Stars 🌟 | License 📜 | Description 📝 |
 | :--- | :--- | :--- | :--- |
 | **[Quill JS](https://github.com/quilljs/quill)** | [![Quill Stars](https://img.shields.io/github/stars/quilljs/quill?style=social&color=white)](https://github.com/quilljs/quill/stargazers) | BSD-3-Clause | Powerful rich text editor built for compatibility and customizability with a modular architecture. |
 | **[Tiptap](https://github.com/ueberdosis/tiptap)** | [![Tiptap Stars](https://img.shields.io/github/stars/ueberdosis/tiptap?style=social&color=white)](https://github.com/ueberdosis/tiptap/stargazers) | MIT | Headless WYSIWYG editor framework for Vue.js and React built on ProseMirror. |
@@ -112,7 +112,7 @@ Thank you for visiting and using this repository! If you find this curated word 
 - This list is **community-curated** for informational and research purposes only.
 - Word processors handle confidential business and personal data. Always conduct security audits before deploying self-hosted instances.
 - **CryptPad's zero-knowledge architecture** means lost passwords cannot be recovered.
-- Product pricing and star counts are updated periodically.
+- Product pricing and Stars_Counts are updated periodically.
 
 ---
 
